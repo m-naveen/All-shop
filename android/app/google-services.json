@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765345058807",
+    "project_id": "allshop-2cbd6",
+    "storage_bucket": "allshop-2cbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765345058807:android:9b51fe5782fbc2b85168f2",
+        "android_client_info": {
+          "package_name": "com.naveen.allshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765345058807-aeadv04ruuna263l3ts5cv5bemuccj1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzt5cptkkVomHGe0PdhnG-74YQB8JkXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765345058807-aeadv04ruuna263l3ts5cv5bemuccj1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
